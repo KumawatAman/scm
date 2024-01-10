@@ -1,0 +1,24 @@
+[
+  {
+    "apiResources": [],
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "access",
+        "value": "public"
+      }
+    ],
+    "createdAt": 1699249446076,
+    "description": "",
+    "displayName": "filterdata-prod",
+    "environments": [
+      "test"
+    ],
+    "lastModifiedAt": 1699249446076,
+    "name": "filterdata-prod",
+    "proxies": [
+      "FilterData"
+    ],
+    "scopes": []
+  }
+]

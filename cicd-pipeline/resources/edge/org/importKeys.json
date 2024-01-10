@@ -1,0 +1,17 @@
+{
+  "kukil.bora@neosalpha.com": [
+    {
+      "apiProducts": [
+        "filterdata-prod"
+      ],
+      "attributes": [],
+      "consumerKey": "pDXuUAwXJKFVLdyZ89QfeOLI0XFbBRL8",
+      "consumerSecret": "u2Gt15XmNcAoGx0S",
+      "expiresAt": -1,
+      "issuedAt": 1699249482072,
+      "scopes": [],
+      "status": "approved",
+      "name": "filterdata-app"
+    }
+  ]
+}

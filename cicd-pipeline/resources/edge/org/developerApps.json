@@ -1,0 +1,25 @@
+{
+  "kukil.bora@neosalpha.com": [
+    {
+      "appFamily": "default",
+      "appId": "499cca94-3375-4c5a-a0f2-ec6383630c51",
+      "attributes": [
+        {
+          "name": "DisplayName",
+          "value": "filterdata-app"
+        },
+        {
+          "name": "Notes",
+          "value": ""
+        }
+      ],
+      "callbackUrl": "",
+      "createdAt": 1699249481689,
+      "developerId": "208f2afe-f9ac-4f75-b01f-5de899a678a5",
+      "lastModifiedAt": 1699249481689,
+      "name": "filterdata-app",
+      "scopes": [],
+      "status": "approved"
+    }
+  ]
+}

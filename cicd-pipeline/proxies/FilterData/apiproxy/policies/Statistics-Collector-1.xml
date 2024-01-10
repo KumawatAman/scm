@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DataCapture name="Statistics-Collector-1" continueOnError="false" enabled="true">
+    <DisplayName>Statistics Collector-1</DisplayName>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+    <Capture>
+        <Collect ref="product.id"/>
+        <DataCollector>dc_productID</DataCollector>
+    </Capture>
+    <Capture>
+        <Collect ref="product.price"/>
+        <DataCollector>dc_price</DataCollector>
+    </Capture>
+</DataCapture>
